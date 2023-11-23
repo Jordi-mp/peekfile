@@ -3,7 +3,7 @@
 echo " "
 echo MSc in Bioinformatics for Health Sciences
 echo Introduction to Algorithmics
-echo "Jordi Martín Pérez (u235858)"
+echo "u235858"
 echo Midterm assignment: Fastascan
 echo " "
 echo "........................................................................."
