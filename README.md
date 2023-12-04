@@ -1,4 +1,4 @@
-# peekfile
+# Fastascan
 The fastascan.sh script is used to produce a concise report about the fasta/fa files in a given folder (or its subfolders at any depth). 
 
 The script must take two optional arguments: 
